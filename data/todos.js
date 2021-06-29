@@ -8,15 +8,15 @@ module.exports = [
     completed: false,
   },
   {
-    name: 'complete daily code challenge',
+    todo: 'complete daily code challenge',
     completed: false,
   },
   {
-    name: 'understand regex',
+    todo: 'understand regex',
     completed: false,
   },
   {
-    name: 'congratulate yourself',
+    todo: 'congratulate yourself',
     completed: false,
   }
 
